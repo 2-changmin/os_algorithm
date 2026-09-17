@@ -1,0 +1,13 @@
+# 컴파일 산출물
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# 입력 테스트 파일
+input.txt
+
+# 편집기/OS
+.vscode/
+.DS_Store
